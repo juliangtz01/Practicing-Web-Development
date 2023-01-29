@@ -42,3 +42,7 @@ footer > a {
     color: #457b9d;
 }
 
+input[type="password"] {
+    color: red;
+}
+
